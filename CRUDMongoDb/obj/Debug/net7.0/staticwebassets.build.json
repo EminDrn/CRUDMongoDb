@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "G4yn/wRaLca5hp6Jvr8x7tsYussgJDltMJsb+2Lcf5c=",
+  "Source": "CRUDMongoDb",
+  "BasePath": "_content/CRUDMongoDb",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
